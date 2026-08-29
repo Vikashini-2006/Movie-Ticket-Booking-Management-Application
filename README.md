@@ -9,7 +9,7 @@ developed using Pega App Studio.
 
 You can access the application here:
 
-[Open Pega App Studio Application](PASTE_YOUR_PEGA_LINK_HERE)
+[Open Pega App Studio Application](https://63tvbsdp.pegacea.net/prweb/app/movie-ticket-booking-management-application/1O3kfChUoyqPj2zmFwqFq7C8uA6oWcaK*/!STANDARD?pzuiactionzzz=CXtycX1hOTY4ZTA0YTkwZTRiYTI1MzA5ZGEzZjFjYzFkMzBiMGNlYmFhNjIzMTAzN2Q4NjJiZDk0NWYyMTIzMjc4YTBlMzcyNDRiNWYzNzhhYjVmYjkxNTdiNWU1MmUzOTAxMjg=*)
 
 ## Case Life Cycle
 
